@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPymes-V2", "MiPymes-V2\MiPymes-V2.csproj", "{A9CFDCB2-4B25-433C-A3C1-092C4B92A5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPymes-V2-Dominio", "MiPymes-V2-Dominio\MiPymes-V2-Dominio.csproj", "{2B06D79E-E981-40B6-9717-B79C3EF21406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CFDCB2-4B25-433C-A3C1-092C4B92A5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CFDCB2-4B25-433C-A3C1-092C4B92A5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CFDCB2-4B25-433C-A3C1-092C4B92A5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CFDCB2-4B25-433C-A3C1-092C4B92A5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B06D79E-E981-40B6-9717-B79C3EF21406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B06D79E-E981-40B6-9717-B79C3EF21406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B06D79E-E981-40B6-9717-B79C3EF21406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B06D79E-E981-40B6-9717-B79C3EF21406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
