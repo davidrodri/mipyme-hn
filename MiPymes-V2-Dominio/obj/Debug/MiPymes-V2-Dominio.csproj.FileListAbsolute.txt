@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\bin\Debug\MiPymes-V2-Dominio.dll.config
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\bin\Debug\MiPymes-V2-Dominio.dll
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\bin\Debug\MiPymes-V2-Dominio.pdb
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\obj\Debug\MiPymes-V2-Dominio.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\obj\Debug\MiPymes-V2-Dominio.dll
+C:\Users\David\Desktop\MiPymes-V2\MiPymes-V2\MiPymes-V2-Dominio\obj\Debug\MiPymes-V2-Dominio.pdb
